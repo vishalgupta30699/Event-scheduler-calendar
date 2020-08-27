@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Event-scheduler-calendar/static/css/main.2b5e9a75.chunk.css",
+    "main.js": "/Event-scheduler-calendar/static/js/main.562fbb82.chunk.js",
+    "main.js.map": "/Event-scheduler-calendar/static/js/main.562fbb82.chunk.js.map",
+    "runtime-main.js": "/Event-scheduler-calendar/static/js/runtime-main.044bf486.js",
+    "runtime-main.js.map": "/Event-scheduler-calendar/static/js/runtime-main.044bf486.js.map",
+    "static/css/2.43ed64ed.chunk.css": "/Event-scheduler-calendar/static/css/2.43ed64ed.chunk.css",
+    "static/js/2.b865da5a.chunk.js": "/Event-scheduler-calendar/static/js/2.b865da5a.chunk.js",
+    "static/js/2.b865da5a.chunk.js.map": "/Event-scheduler-calendar/static/js/2.b865da5a.chunk.js.map",
+    "index.html": "/Event-scheduler-calendar/index.html",
+    "precache-manifest.663f1fa5a41632f9a1bcb4cd226b155a.js": "/Event-scheduler-calendar/precache-manifest.663f1fa5a41632f9a1bcb4cd226b155a.js",
+    "service-worker.js": "/Event-scheduler-calendar/service-worker.js",
+    "static/css/2.43ed64ed.chunk.css.map": "/Event-scheduler-calendar/static/css/2.43ed64ed.chunk.css.map",
+    "static/css/main.2b5e9a75.chunk.css.map": "/Event-scheduler-calendar/static/css/main.2b5e9a75.chunk.css.map",
+    "static/js/2.b865da5a.chunk.js.LICENSE.txt": "/Event-scheduler-calendar/static/js/2.b865da5a.chunk.js.LICENSE.txt",
+    "static/media/dhtmlxscheduler_material.css": "/Event-scheduler-calendar/static/media/tree_arrow.628b6dea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.044bf486.js",
+    "static/css/2.43ed64ed.chunk.css",
+    "static/js/2.b865da5a.chunk.js",
+    "static/css/main.2b5e9a75.chunk.css",
+    "static/js/main.562fbb82.chunk.js"
+  ]
+}
